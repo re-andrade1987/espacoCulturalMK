@@ -1,0 +1,12 @@
+.navbar {
+    display: flex;
+    justify-content: space-around;
+
+}
+.navbarLogo{
+    margin-top: 10px;
+}
+.navbar ul li {
+    display: inline;
+    margin: 10px;
+}
